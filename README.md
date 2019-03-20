@@ -8,9 +8,13 @@ we will be using Neural Information Processing Systems (NIPS) is one of the top 
 Work Involved in this experiment is as follows:-
 
 1] Data Loading
+
 2] Data Pre-Processing (cleaning data and noise removal)
+
 3] Data Exploration (Understanding the data)
+
 4] Convert data into Word-Vector Representation
+
 5] Based on word Frequencies Pick top words relevant to each topic
 
 
